@@ -1,0 +1,24 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    background: #1d1c1c;
+    overflow-x: hidden;
+    min-height: 160vh;
+}
+*{
+    box-sizing: border-box;
+}
+.column{
+    float: left;
+    width: 30%;
+    height: auto;
+    padding: 6px;
+    margin-right: 20%;
+   text-align: left;
+}
+
